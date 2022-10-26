@@ -4,7 +4,7 @@ The software is provided free of charge, but **I urge you to use some of the mon
 The civilian suffering due to the Russian invasion are enourmous, the attacks on hospitals and other war crimes performed by the Russian invaders are horrifying.
 You can find links for donating to various projects at https://standforukraine.com/ and https://stand-with-ukraine.pp.ua/
 
-# OpenRiaServiecs
+# OpenRiaServices
 
 Azure Pipelines: [![Build Status](https://dev.azure.com/OpenRiaServices/OpenRiaServices/_apis/build/status/OpenRIAServices.OpenRiaServices?branchName=main)](https://dev.azure.com/OpenRiaServices/OpenRiaServices/_build/latest?definitionId=1&branchName=main)
 [![Tests](https://img.shields.io/azure-devops/tests/OpenRiaServices/OpenRiaServices/1/main.svg)](https://dev.azure.com/OpenRiaServices/OpenRiaServices/_build/latest?definitionId=1&branchName=main)
